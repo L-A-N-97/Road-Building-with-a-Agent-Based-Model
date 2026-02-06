@@ -1,8 +1,10 @@
-*Road Building with an Agent Based Model*
-
-*Netlogo 7.0.0*
+*Road Building with an Agent Based Model for Netlogo 7.0.0*
 
 This is the repository for **Road Building 0.2**, an agent-based model built in Netlogo designed to simulate how roads and pathways may develop over time. This model is the culmination of the 2025/2026 "Agent Based Modelling for Archaeologists" (https://github.com/CoDArchLab-ABM/course-guide/tree/main). As such it is a student project designed to help teach agent based modelling and coding.
+
+*Download*
+
+To access the model, simply download it from the repository.
 
 *Model Description*
 
